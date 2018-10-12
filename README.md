@@ -18,4 +18,4 @@ Our app will crunch in basic data from APIs across the web, geo-tagged for locat
 
 4) Notification Based on Profile: For users in a specific profession, if the profession involves dealing with situations exemplifyinng losses from a certain event, a more sensitive notification alert can be chosen for.
 
-
+Creators: Priyanshu Gupta(priyanshu@cse.iitk.ac.in); Karan Vaish(karanv@iitk.ac.in) ;  Triptesh Biswas(triptesh@iitk.ac.in)
