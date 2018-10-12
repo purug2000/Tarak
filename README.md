@@ -7,4 +7,6 @@ In this era of modern technology that we are living in today, does not permit on
 
 ## How It Works
 
-This app will use a trained model .What the trained model will do is ,it will input in the data from various API's concerned with weather ,earthquakes ,cyclones ,etc,. and return an array of weights .The model will be trained on different subclasses of natural disasters as mentioned before ,so the array of weights returned will be 
+This app will use a trained model .The model will be trained on inputs of data of many past years from various API's concerned with weather ,earthquakes ,cyclones ,etc,. and return an array of weights .The model will be trained on different subclasses of natural disasters as mentioned before ,so the array of weights returned will correspond to each of these subclasses .After the weights are returned it will take in the present day data from the various API's and apply the weights returned before on this data to return a array of probablities( these probablities will indicate which natural disasters are more prone to occur). the probablities will be sorted and listed on the app main page. 
+
+## What Is New In Our App
